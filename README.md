@@ -8,7 +8,7 @@ Welcome to the **Netflix Clone**, a visually accurate mock-up of the popular str
 
 ## 🚀 Live Demo
 
-👉 [**Click Here to View**](#) *(Add your GitHub Pages/Vercel link here)*  
+👉 [**Click Here to View**](#) *[(Add your GitHub Pages/Vercel link here)](https://netflix-clone-seven-gamma-39.vercel.app/)*  
 📱 Fully responsive across desktop, tablet, and mobile devices.
 
 ---
@@ -59,7 +59,7 @@ This project is perfect for beginners looking to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/Sachinarya68/netflix-clone.git
 Open the project folder:
 
 bash
