@@ -59,7 +59,7 @@ This project is perfect for beginners looking to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sachinarya68/netflix-clone.git
+   https://github.com/Sachinarya68/netflix-clone.git
 Open the project folder:
 
 bash
