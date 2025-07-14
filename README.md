@@ -63,8 +63,6 @@ This project is perfect for beginners looking to:
 Open the project folder:
 
 bash
-Copy
-Edit
 cd netflix-clone
 Open index.html in your browser, or use Live Server in VS Code for a smooth dev experience.
 
@@ -74,6 +72,8 @@ Open index.html in your browser, or use Live Server in VS Code for a smooth dev 
 This is a static clone – it does not include real Netflix content, login functionality, or media playback.
 
 For full functionality, you'd need a backend, APIs, and JavaScript for interactivity — but this project focuses purely on layout and styling.
+
+---
 
 🧠 Future Improvements
 ✅ Add interactivity using JavaScript
