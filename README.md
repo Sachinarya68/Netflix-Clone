@@ -8,7 +8,7 @@ Welcome to the **Netflix Clone**, a visually accurate mock-up of the popular str
 
 ## 🚀 Live Demo
 
-👉 [**Click Here to View**](#) *[(Add your GitHub Pages/Vercel link here)](https://netflix-clone-seven-gamma-39.vercel.app/)*  
+👉 [**Click Here to View**](#) *(https://netflix-clone-seven-gamma-39.vercel.app/)*  
 📱 Fully responsive across desktop, tablet, and mobile devices.
 
 ---
